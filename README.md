@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dkinene
 - 👀 I’m interested in coding and learning from fellow coders
-- 🌱 I’m currently learning REACT and Graphql
+- 🌱 My main specialization are Javascript, NoSql MongoDB, ExpressJS.
+- 💞️ Am interested in learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wasswadouglas21@gmail.com
 
